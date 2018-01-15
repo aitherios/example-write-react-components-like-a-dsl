@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Headline></Headline> renders 1`] = `<Headline />`;
+
+exports[`<Headline></Headline> renders overwriting text 1`] = `
+<Headline>
+  Other Headline
+</Headline>
+`;
